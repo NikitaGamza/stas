@@ -11,7 +11,7 @@
 
 .main {
   width: 100%;
-  background: url("./assets/main-bg.png") no-repeat center center;
+  background: url("./assets/main-bg.png") no-repeat;
   background-size: cover;
   padding-top: 31px;
 }
@@ -113,7 +113,7 @@
 }
 
 .teach {
-  background: #1e1e1e;
+  background: #1f2a39;
 }
 
 .header {

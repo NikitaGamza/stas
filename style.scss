@@ -11,7 +11,7 @@
 .main {
   width: 100%;
   //   height: 200px;
-  background: url('./assets/main-bg.png') no-repeat center center;
+  background: url('./assets/main-bg.png') no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -91,7 +91,7 @@
   }
 }
 .teach {
-  background: #1e1e1e;
+  background: #1f2a39;
 }
 .header {
   width: 961px;
